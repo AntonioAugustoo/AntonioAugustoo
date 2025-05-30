@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm passionate about programming and always looking to lea
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioAugustoo&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAugustoo&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-![Snake animation] (https://github.com/AntonioAugustoo/AntonioAugustoo/blop/output/github-contribution-grid-snake.svg)
+
 
 
 
