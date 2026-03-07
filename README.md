@@ -38,7 +38,7 @@ Sou apaixonado por tecnologia, programação e por criar soluções que impactam
 ---
 
 
-### 📊 Estatísticas do GitHub
+<h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioAugustoo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -46,7 +46,7 @@ Sou apaixonado por tecnologia, programação e por criar soluções que impactam
 
 ---
 
-### 📫 Como me encontrar
+<h3 align="center">📫 Como me encontrar</h3>### 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/antonio-augusto-assumpção-255614324/" target="_blank">
