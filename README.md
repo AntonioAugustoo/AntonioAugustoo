@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Antonio+Augusto!;Desenvolvedor+de+Software;Foco+em+Inovação+e+Boas+Práticas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=79A8FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Antonio+Augusto!;Desenvolvedor+de+Software;Apaixonado+por+tecnologia&v=3" alt="Typing SVG" />
 </div>
 
 <br>
