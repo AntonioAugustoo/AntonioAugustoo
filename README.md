@@ -8,9 +8,9 @@
 
 Sou apaixonado por tecnologia, programação e por criar soluções que impactam o mundo real. Atualmente buscando aprimorar minhas habilidades em desenvolvimento de software e automação.
 
-- 🔭 Atualmente sou estagiário na **Huawei**, atuando no setor de redes móveis.
+- 👀 Tenho interesse em programação.
 - 💻 Tenho foco e conhecimento sólido em **Python, C++ e Java**.
-- 🚀 Sempre explorando novas tecnologias e construindo projetos de ponta a ponta (como o meu mais recente *Monitor de Sorrisos*).
+- 🚀 Sempre explorando novas tecnologias e construindo projetos de ponta a ponta.
 
 ---
 
