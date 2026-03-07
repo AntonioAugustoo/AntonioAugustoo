@@ -48,7 +48,7 @@ Sou apaixonado por tecnologia, programação e por criar soluções que impactam
 
 ### 📫 Como me encontrar
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/antonio-augusto-assumpção-255614324/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
