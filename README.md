@@ -8,9 +8,9 @@
 
 [cite_start]Estudante do 9º período de Engenharia de Software no Instituto Nacional de Telecomunicações (INATEL)[cite: 5]. [cite_start]Sou focado no desenvolvimento de aplicações de ponta a ponta [cite: 6, 135][cite_start], unindo a infraestrutura de back-end, engenharia de dados e soluções de inteligência artificial para criar sistemas funcionais e escaláveis[cite: 6, 7].
 
-- [cite_start]🚀 **Foco de Atuação:** Back-end, Engenharia de Dados, Inteligência Artificial e IoT[cite: 25, 132].
-- [cite_start]🛠️ **Vivência Prática:** Desenvolvimento de APIs REST, processamento analítico de dados [cite: 27, 136] [cite_start]e agentes inteligentes[cite: 7].
-- [cite_start]💼 **Trajetória:** Experiência construída como estagiário de P&D na Huawei [cite: 7, 163] [cite_start]e pesquisador bolsista em laboratórios de IoT e Automação no Inatel[cite: 7, 10, 22].
+- 🚀 **Foco de Atuação:** Back-end, Engenharia de Dados, Inteligência Artificial e IoT[cite: 25, 132].
+- 🛠️ **Vivência Prática:** Desenvolvimento de APIs REST, processamento analítico de dados [cite: 27, 136] [cite_start]e agentes inteligentes[cite: 7].
+- 💼 **Trajetória:** Experiência construída como estagiário de P&D na Huawei [cite: 7, 163] [cite_start]e pesquisador bolsista em laboratórios de IoT e Automação no Inatel[cite: 7, 10, 22].
 
 ---
 
@@ -48,7 +48,7 @@
 
 * 🧪 **[EssentIA](https://github.com/AntonioAugustoo)** (2025): Aplicação de Inteligência Artificial para recomendação personalizada de fragrâncias em tempo real. Atuei no desenvolvimento do Front-end responsivo (HTML5/CSS3/JS), criando um quiz dinâmico e um guarda-roupa virtual integrados a um agente IA estruturado com LangGraph, sistema RAG e GPT-4o-mini.
 * 🎬 **[Pipoqueiro](https://github.com/AntonioAugustoo)** (2025): Plataforma completa full-stack de reviews e descoberta de filmes. Responsável pelo Front-end e Design System construídos com React 19, Vite e TailwindCSS. O sistema conta com catálogo de 500k+ filmes (TMDb API), chatbot OpenAI para sugestões, autenticação JWT e automação de deploys com Jenkins e Docker.
-* [cite_start]🌾 **[EMG-Facial](https://github.com/AntonioAugustoo)** (2025): Projeto inovador que mede a contração do músculo zigomático do rosto através de sinais EMG (eletromiografia), funcionando essencialmente como um "sorrisômetro". O sistema captura, processa e analisa os sinais elétricos musculares em tempo real, fornecendo dados precisos sobre a intensidade e qualidade dos sorrisos através de gráficos interativos e análise estatística.
+* 🩺 **[EMG-Facial](https://github.com/AntonioAugustoo)** (2025): Projeto inovador que mede a contração do músculo zigomático do rosto através de sinais EMG (eletromiografia), funcionando essencialmente como um "sorrisômetro". O sistema captura, processa e analisa os sinais elétricos musculares em tempo real, fornecendo dados precisos sobre a intensidade e qualidade dos sorrisos através de gráficos interativos e análise estatística.
 
 ---
 
