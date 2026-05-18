@@ -6,11 +6,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-[cite_start]Estudante do 9º período de Engenharia de Software no Instituto Nacional de Telecomunicações (INATEL)[cite: 5]. [cite_start]Sou focado no desenvolvimento de aplicações de ponta a ponta [cite: 6, 135][cite_start], unindo a infraestrutura de back-end, engenharia de dados e soluções de inteligência artificial para criar sistemas funcionais e escaláveis[cite: 6, 7].
+Estudante do 9º período de Engenharia de Software no Instituto Nacional de Telecomunicações (INATEL).Sou focado no desenvolvimento de aplicações de ponta a ponta, unindo a infraestrutura de back-end, engenharia de dados e soluções de inteligência artificial para criar sistemas funcionais e escaláveis.
 
-- 🚀 **Foco de Atuação:** Back-end, Engenharia de Dados, Inteligência Artificial e IoT[cite: 25, 132].
-- 🛠️ **Vivência Prática:** Desenvolvimento de APIs REST, processamento analítico de dados [cite: 27, 136] [cite_start]e agentes inteligentes[cite: 7].
-- 💼 **Trajetória:** Experiência construída como estagiário de P&D na Huawei [cite: 7, 163] [cite_start]e pesquisador bolsista em laboratórios de IoT e Automação no Inatel[cite: 7, 10, 22].
+- 🚀 **Foco de Atuação:** Back-end, Engenharia de Dados, Inteligência Artificial, IOT e Front-End.
+- 🛠️ **Vivência Prática:** Desenvolvimento de APIs REST, processamento analítico de dados, telas interativas e agentes inteligentes.
+- 💼 **Trajetória:** Experiência construída como estagiário de P&D na Huawei e pesquisador bolsista em laboratórios de IoT e Automação no Inatel.
 
 ---
 
@@ -65,10 +65,10 @@
 <h3 align="center">📫 Como me encontrar</h3>
 
 <div align="center">
-  [cite_start]<a href="https://www.linkedin.com/in/antonioaugustodassumpcao/" target="_blank">[cite: 127]
+  <a href="https://www.linkedin.com/in/antonioaugustodassumpcao/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:antonioaugusto7122@hotmail.com" target="_blank">[cite: 3, 125]
+  <a href="mailto:antonioaugusto7122@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
