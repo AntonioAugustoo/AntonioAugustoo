@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHgzcjZ6bWw0NXBzOWo5a2ZmdXU0a2Z5dzZ3NXBjNGZmejdpeXlzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjR0XkO07iZlS/giphy.gif" alt="Nintendo Header" width="100%" />
+  
+  <br>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=79A8FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Ant%C3%B4nio+Augusto!;Engenheiro+de+Software;Focado+em+Back-end%2C+Dados+e+IA&v=3" alt="Typing SVG" />
 </div>
 
@@ -6,41 +10,43 @@
 
 ### 👨‍💻 Sobre Mim
 
-Estudante do 9º período de Engenharia de Software no Instituto Nacional de Telecomunicações (INATEL).Sou focado no desenvolvimento de aplicações de ponta a ponta, unindo a infraestrutura de back-end, engenharia de dados e soluções de inteligência artificial para criar sistemas funcionais e escaláveis.
+Estudante do 9º período de Engenharia de Software no Instituto Nacional de Telecomunicações (INATEL). Sou focado no desenvolvimento de aplicações de ponta a ponta, unindo a infraestrutura de back-end, engenharia de dados e soluções de inteligência artificial para criar sistemas funcionais e escaláveis.
 
-- 🚀 **Foco de Atuação:** Back-end, Engenharia de Dados, Inteligência Artificial, IOT e Front-End.
+- 🚀 **Foco de Atuação:** Back-end, Engenharia de Dados, Inteligência Artificial, IoT e Front-End.
 - 🛠️ **Vivência Prática:** Desenvolvimento de APIs REST, processamento analítico de dados, telas interativas e agentes inteligentes.
 - 💼 **Trajetória:** Experiência construída como estagiário de P&D na Huawei e pesquisador bolsista em laboratórios de IoT e Automação no Inatel.
 
+### 📜 Minha História
+
+Sou apaixonado por tecnologia e estou constantemente explorando novas ferramentas e frameworks para melhorar minhas habilidades. Com experiência prática construída em gigantes como a Huawei e em laboratórios de pesquisa do INATEL, hoje busco consolidar minha carreira aplicando conceitos avançados de Engenharia de Dados, Back-end e Inteligência Artificial na criação de sistemas inteligentes, robustos e escaláveis. Meu objetivo atual é integrar equipes de alta performance focadas em inovação contínua, onde eu possa transformar desafios complexos de arquitetura e pipelines de dados em soluções eficientes de ponta a ponta.
+
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Arsenal Tecnológico
 
-**Linguagens & Back-end** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<div align="center">
 
-**Front-end & Interfaces**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### 📊 Data Engineering & Big Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,supabase" alt="Data Techs" />
+</p>
 
-**Dados, IA & DevOps**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/-PlatformIO-F34F29?style=flat-square&logo=platformio&logoColor=white)
+### 💻 Fullstack & Core Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,c,react,nextjs,html,css,tailwind" alt="Fullstack Techs" />
+</p>
+
+### ⚡ IoT & Hardware Design
+<p>
+  <img src="https://skillicons.dev/icons?i=platformio" alt="IoT Techs" />
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,postman" alt="DevOps Tools" />
+</p>
+
+</div>
 
 ---
 
@@ -49,6 +55,29 @@ Estudante do 9º período de Engenharia de Software no Instituto Nacional de Tel
 * 🧪 **[EssentIA](https://github.com/AntonioAugustoo)** (2025): Aplicação de Inteligência Artificial para recomendação personalizada de fragrâncias em tempo real. Atuei no desenvolvimento do Front-end responsivo (HTML5/CSS3/JS), criando um quiz dinâmico e um guarda-roupa virtual integrados a um agente IA estruturado com LangGraph, sistema RAG e GPT-4o-mini.
 * 🎬 **[Pipoqueiro](https://github.com/AntonioAugustoo)** (2025): Plataforma completa full-stack de reviews e descoberta de filmes. Responsável pelo Front-end e Design System construídos com React 19, Vite e TailwindCSS. O sistema conta com catálogo de 500k+ filmes (TMDb API), chatbot OpenAI para sugestões, autenticação JWT e automação de deploys com Jenkins e Docker.
 * 🩺 **[EMG-Facial](https://github.com/AntonioAugustoo)** (2025): Projeto inovador que mede a contração do músculo zigomático do rosto através de sinais EMG (eletromiografia), funcionando essencialmente como um "sorrisômetro". O sistema captura, processa e analisa os sinais elétricos musculares em tempo real, fornecendo dados precisos sobre a intensidade e qualidade dos sorrisos através de gráficos interativos e análise estatística.
+
+---
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="center">
+
+### 📈 Linguagens Mais Usadas
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAugustoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" alt="Top Languages" width="100%"/>
+
+</td>
+<td width="45%" valign="center" align="center">
+
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="85%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -71,4 +100,24 @@ Estudante do 9º período de Engenharia de Software no Instituto Nacional de Tel
   <a href="mailto:antonioaugusto7122@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+
+### 💭 "A inteligência artificial é a eletricidade do futuro, e os dados são o combustível que a mantém acesa."
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AntonioAugustoo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/AntonioAugustoo?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/AntonioAugustoo?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="GitHub stars"/>
+
+<br><br>
+
+<sub>⚡ Desenvolvido com inovação, café e código limpo</sub>
+
 </div>
