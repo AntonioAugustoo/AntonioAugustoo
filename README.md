@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHgzcjZ6bWw0NXBzOWo5a2ZmdXU0a2Z5dzZ3NXBjNGZmejdpeXlzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjR0XkO07iZlS/giphy.gif" alt="Nintendo Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/SeuUsuarioAqui/SeuUsuarioAqui/main/header.gif" onerror="this.onerror=null;this.src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FvNnp0NXFwZ281em93YTg4bHlsbW96Y29pYnl0Ym9pN3I0ZndpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjR0XkO07iZlS/giphy.gif';" alt="Nintendo Header" width="100%" />
   
-  <br>
+  <br><br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=79A8FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Ant%C3%B4nio+Augusto!;Engenheiro+de+Software;Focado+em+Back-end%2C+Dados+e+IA&v=3" alt="Typing SVG" />
 </div>
@@ -59,24 +59,22 @@ Sou apaixonado por tecnologia e estou constantemente explorando novas ferramenta
 ---
 
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0">
 <tr>
-<td width="55%" valign="center">
+<td width="50%" valign="center" align="center">
 
 ### 📈 Linguagens Mais Usadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAugustoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAugustoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=79A8FF&text_color=FFFFFF" alt="Top Languages" />
 
 </td>
-<td width="45%" valign="center" align="center">
+<td width="50%" valign="center" align="center">
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="85%"/>
+### 💻 Coding Style
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%"/>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
