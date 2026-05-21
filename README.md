@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SeuUsuarioAqui/SeuUsuarioAqui/main/header.gif" onerror="this.onerror=null;this.src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FvNnp0NXFwZ281em93YTg4bHlsbW96Y29pYnl0Ym9pN3I0ZndpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjR0XkO07iZlS/giphy.gif';" alt="Nintendo Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/AntonioAugustoo/AntonioAugustoo/main/header.png" alt="Header" width="100%" />
   
   <br><br>
 
