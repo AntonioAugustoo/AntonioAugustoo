@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AntonioAugustoo/AntonioAugustoo/main/header.png" alt="Header" width="100%" />
+  <img src="https://github.com/user-attachments/assets/0c598cb6-4c84-4eb9-9ccc-87c5ddf19c7d" alt="Header" width="100%" />
   
   <br><br>
 
@@ -28,22 +28,22 @@ Sou apaixonado por tecnologia e estou constantemente explorando novas ferramenta
 
 ### 📊 Data Engineering & Big Data
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,supabase" alt="Data Techs" />
+  <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,supabase,postgresql" alt="Data Techs" />
 </p>
 
 ### 💻 Fullstack & Core Dev
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,c,react,nextjs,html,css,tailwind" alt="Fullstack Techs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,fastapi,react,nextjs,html,css,tailwind" alt="Fullstack Techs" />
 </p>
 
 ### ⚡ IoT & Hardware Design
 <p>
-  <img src="https://skillicons.dev/icons?i=platformio" alt="IoT Techs" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp" alt="IoT Techs" />
 </p>
 
 ### 🔧 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,postman" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,postman,vercel" alt="DevOps Tools" />
 </p>
 
 </div>
