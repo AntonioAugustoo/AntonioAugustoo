@@ -64,7 +64,7 @@ Sou apaixonado por tecnologia e estou constantemente explorando novas ferramenta
 <td width="50%" valign="center" align="center">
 
 ### 📈 Linguagens Mais Usadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAugustoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=79A8FF&text_color=FFFFFF&cache_seconds=1800&count_private=true" alt="Top Languages" />
+<img src="https://github-readme-stats-gules-two-56.vercel.app/api/top-langs/?username=AntonioAugustoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=79A8FF&text_color=FFFFFF" alt="Top Languages" />
 
 </td>
 <td width="50%" valign="center" align="center">
@@ -82,7 +82,7 @@ Sou apaixonado por tecnologia e estou constantemente explorando novas ferramenta
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioAugustoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gules-two-56.vercel.app/api?username=AntonioAugustoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioAugustoo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
